@@ -1,8 +1,9 @@
 body    
 {
     color: #333;
-    text-align: left;
-    font-family: courier;
+    text-align: center;
+    font-family: arial;
+    font-size: 20px;
     margin: 0;
     padding: 0;
 }
